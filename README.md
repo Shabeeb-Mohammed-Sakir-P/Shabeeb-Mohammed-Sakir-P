@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍🎓 About Me:
 🔭 I’m currently working on<br>Machine Learning, NLP, and Computer Vision projects with real-world applications (Resume Screening, Traffic Safety, Pose Estimation).<br><br>👯 I’m looking to collaborate on<br>Data Science, Machine Learning, AI, and OpenCV-based projects.<br><br>🤝 I’m looking for help with<br>Advanced deep learning, model optimization, and deploying ML models.<br><br>🌱 I’m currently learning<br>Deep Learning, Computer Vision, MLOps, and cloud-based data engineering (AWS).<br><br>💬 Ask me about<br>Python, SQL, Data Analysis, ML basics, EDA, and visualization.<br><br>⚡ Fun fact<br>I started with Mathematics and now enjoy teaching machines how to learn 📊🤖
 
 
