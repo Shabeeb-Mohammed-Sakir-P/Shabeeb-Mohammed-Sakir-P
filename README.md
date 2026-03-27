@@ -135,18 +135,7 @@ Temporal and Visual Deep Learning Pipelines Optimization
 
 ---
 
-## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shabeeb-mohammed-sakir-257895341">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Shabeeb-Mohammed-Sakir-P">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-%23181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
 
 ## ✨ Quote
 
