@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shabeeb%20Mohammed%20Sakir&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Trainer%20%7C%20Data%20Scientist%20%7C%20Kerala%2C%20India%20🌏&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shabeeb%20Mohammed%20Sakir%20P&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Trainer%20%7C%20Data%20Scientist%20%7C%20Kerala%2C%20India%20🌏&descAlignY=55&descSize=18"/>
 </div>
 
 <p align="center">
@@ -126,12 +126,18 @@ Temporal and Visual Deep Learning Pipelines Optimization
 
 ## 🎯 What I'm Up To
 
-| Area | Status | Details |
-|------|--------|---------|
-| 🔭 Working on | Active | ML, NLP & Computer Vision |
-| 🌱 Learning | In Progress | Deep Learning · MLOps · AWS |
-| 👯 Looking to | Open | Collaborations |
-| 💬 Ask me | Anytime | Python · SQL · Data Analysis |
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭%20Working%20On-ML%20%7C%20NLP%20%7C%20Computer%20Vision-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌱%20Learning-Deep%20Learning%20%7C%20MLOps%20%7C%20AWS-00b894?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/👯%20Open%20To-Collaborations%20%26%20Open%20Source-f39c12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💬%20Ask%20Me-Python%20%7C%20SQL%20%7C%20Data%20Analysis-e74c3c?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Based%20In-Kerala%2C%20India-0984e3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-Maths%20→%20ML%20Engineer-6c5ce7?style=for-the-badge"/>
+</p>
 
 ---
 
