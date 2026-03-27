@@ -1,11 +1,30 @@
-<h1 align="center">👋 Hey, I'm Shabeeb Mohammed Sakir</h1> <h3 align="center">ML Engineer & Data Scientist | Kerala, India 🇮🇳</h3> <p align="center"> Started with Mathematics — now teaching machines how to learn 📐🤖 </p> <p align="center"> <a href="https://www.linkedin.com/in/shabeeb-mohammed-sakir-257895341"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Shabeeb-Mohammed-Sakir-P"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/> </a> <img src="https://komarev.com/ghpvc/?username=Shabeeb-Mohammed-Sakir-P&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/> </p>
-🧑‍💻 About Me
+<h1 align="center">👋 Hey, I'm Shabeeb Mohammed Sakir</h1>
+<h3 align="center">ML Engineer & Data Scientist | Kerala, India 🇮🇳</h3>
+
+<p align="center">
+  Started with Mathematics — now teaching machines how to learn 📐🤖
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shabeeb-mohammed-sakir-257895341">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shabeeb-Mohammed-Sakir-P">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shabeeb-Mohammed-Sakir-P&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+```python
 class ShabeebMohammedSakir:
     def __init__(self):
         self.name     = "Shabeeb Mohammed Sakir P"
         self.role     = "ML Engineer & Data Scientist"
-        self.location = "Kerala, India 🇮🇳"
-        self.origin   = "Mathematics → Data Science → Deep Learning"
+        self.location = "Kerala, India"
+        self.origin   = "Mathematics -> Data Science -> Deep Learning"
 
     @property
     def current_focus(self):
@@ -17,93 +36,129 @@ class ShabeebMohammedSakir:
         ]
 
     def fun_fact(self):
-        return "Started with pure Mathematics, now I make machines learn 📊🤖"
-🚀 My Journey
+        return "Started with pure Mathematics, now I make machines learn!"
+```
 
-📐 Mathematics ──► Fell in love with patterns and proofs
-│
-▼
-📊 Data Science ──► Python, statistics, EDA — the fundamentals
-│
-▼
-🧠 Machine Learning ──► scikit-learn, Pandas, pipelines
-│
-▼
-👁️ Computer Vision ──► OpenCV, YOLO, MediaPipe
-│
-▼
-☁️ MLOps & Cloud ──► AWS, deployment, optimisation [NOW]
+---
 
-🛠️ Tech Arsenal
-💻 Core Languages
+## 🚀 My Journey
+```
+📐 Mathematics      ──►  Fell in love with patterns and proofs
+        │
+        ▼
+📊 Data Science     ──►  Python, statistics, EDA — the fundamentals
+        │
+        ▼
+🧠 Machine Learning ──►  scikit-learn, Pandas, pipelines
+        │
+        ▼
+👁️ Computer Vision  ──►  OpenCV, YOLO, MediaPipe
+        │
+        ▼
+☁️ MLOps & Cloud    ──►  AWS, deployment, optimisation [NOW]
+```
 
+---
 
+## 🛠️ Tech Arsenal
 
+### 💻 Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-📊 Data Science & ML
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🧠 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+### 👁️ Computer Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white)
 
+### 📈 Visualisation
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3C8DBC?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+### ☁️ Currently Learning
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
-🧠 Deep Learning
+## 🏗️ Featured Projects
 
+### ⚡ AI Resume Screener
+> NLP-based candidate ranking system using TF-IDF and similarity scoring.
 
+**Stack:** `Python` `NLTK` `scikit-learn` `Pandas`
 
+---
 
-👁️ Computer Vision & NLP
+### 🚦 Traffic Safety Detection
+> Real-time unsafe driving detection using YOLO and live video feeds.
 
+**Stack:** `OpenCV` `YOLO` `PyTorch`
 
+---
 
+### 🏃 Human Pose Estimation
+> Detects 33 keypoints using MediaPipe for fitness analysis.
 
+**Stack:** `MediaPipe` `TensorFlow` `OpenCV`
 
+---
 
-📈 Visualisation
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shabeeb-Mohammed-Sakir-P&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+  <img src="https://streak-stats.demolab.com?user=Shabeeb-Mohammed-Sakir-P&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabeeb-Mohammed-Sakir-P&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+</p>
 
+---
 
+## 🎯 What I'm Up To
 
+| Area | Status | Details |
+|------|--------|---------|
+| 🔭 Working on | Active | ML, NLP & Computer Vision |
+| 🌱 Learning | In Progress | Deep Learning · MLOps · AWS |
+| 👯 Looking to | Open | Collaborations |
+| 💬 Ask me | Anytime | Python · SQL · Data Analysis |
 
-☁️ Currently Learning
+---
 
+## 🤝 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shabeeb-mohammed-sakir-257895341">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Shabeeb-Mohammed-Sakir-P">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-%23181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
+---
 
+## ✨ Quote
 
+> *"The goal is to turn data into information, and information into insight."*
 
-🏗️ Featured Projects
-⚡ AI Resume Screener
-
-NLP-based candidate ranking system using TF-IDF and similarity scoring.
-
-Stack: Python NLTK scikit-learn Pandas
-
-🚦 Traffic Safety Detection
-
-Real-time unsafe driving detection using YOLO and live video feeds.
-
-Stack: OpenCV YOLO PyTorch
-
-🏃 Human Pose Estimation
-
-Detects 33 keypoints using MediaPipe for fitness analysis.
-
-Stack: MediaPipe TensorFlow OpenCV
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shabeeb-Mohammed-Sakir-P&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://nirzak-streak-stats.vercel.app/?user=Shabeeb-Mohammed-Sakir-P&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shabeeb-Mohammed-Sakir-P&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-🎯 What I'm Up To
-Area	Status	Details
-🔭 Working on	Active	ML, NLP & Computer Vision
-🌱 Learning	In Progress	Deep Learning · MLOps · AWS
-👯 Looking to	Open	Collaborations
-💬 Ask me	Anytime	Python · SQL · Data Analysis
-🤝 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/shabeeb-mohammed-sakir-257895341"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/Shabeeb-Mohammed-Sakir-P"> <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-%23181717?style=for-the-badge&logo=github"/> </a> </p>
-✨ Quote
-
-"The goal is to turn data into information, and information into insight."
-
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Shabeeb-Mohammed-Sakir-P&icon=5&color=6"/> </p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Shabeeb-Mohammed-Sakir-P&icon=5&color=6"/>
+</p>
