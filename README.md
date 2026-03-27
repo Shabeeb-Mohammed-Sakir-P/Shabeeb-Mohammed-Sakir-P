@@ -1,9 +1,6 @@
-<h1 align="center">👋 Hey, I'm Shabeeb Mohammed Sakir</h1>
-<h3 align="center">ML Engineer & Data Scientist | Kerala, India 🇮🇳</h3>
-
-<p align="center">
-  Started with Mathematics — now teaching machines how to learn 📐🤖
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shabeeb%20Mohammed%20Sakir&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Kerala%2C%20India%20🌏&descAlignY=55&descSize=18"/>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shabeeb-mohammed-sakir-257895341">
@@ -18,26 +15,15 @@
 ---
 
 ## 🧑‍💻 About Me
-```python
-class ShabeebMohammedSakir:
-    def __init__(self):
-        self.name     = "Shabeeb Mohammed Sakir P"
-        self.role     = "ML Engineer & Data Scientist"
-        self.location = "Kerala, India"
-        self.origin   = "Mathematics -> Data Science -> Deep Learning"
 
-    @property
-    def current_focus(self):
-        return [
-            "🔭 Machine Learning, NLP & Computer Vision projects",
-            "🌱 Deep Learning, MLOps & AWS cloud engineering",
-            "👯 Open to collaborate on AI/ML & OpenCV projects",
-            "🤝 Seeking help with advanced model optimisation",
-        ]
+I am a passionate **ML Engineer** and **Data Scientist** from **Kerala, India** with a deep love for Mathematics that evolved into building intelligent systems. I enjoy turning raw data into meaningful insights and building real-world AI solutions.
 
-    def fun_fact(self):
-        return "Started with pure Mathematics, now I make machines learn!"
-```
+- 🔭 Currently working on **Machine Learning, NLP & Computer Vision** projects
+- 🌱 Actively learning **Deep Learning, MLOps & AWS cloud engineering**
+- 👯 Open to collaborate on **AI/ML & OpenCV** projects
+- 🤝 Seeking guidance on **advanced model optimisation**
+- 💬 Ask me about **Python · SQL · Data Analysis · Machine Learning**
+- ⚡ Fun fact: Started with pure Mathematics — now I make machines learn!
 
 ---
 
@@ -71,6 +57,7 @@ class ShabeebMohammedSakir:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 🧠 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -88,10 +75,11 @@ class ShabeebMohammedSakir:
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C8DBC?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### ☁️ Currently Learning
+### ☁️ Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -131,6 +119,14 @@ class ShabeebMohammedSakir:
 
 ---
 
+## ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shabeeb-Mohammed-Sakir-P&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
 ## 🎯 What I'm Up To
 
 | Area | Status | Details |
@@ -159,6 +155,6 @@ class ShabeebMohammedSakir:
 
 > *"The goal is to turn data into information, and information into insight."*
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shabeeb-Mohammed-Sakir-P&icon=5&color=6"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
