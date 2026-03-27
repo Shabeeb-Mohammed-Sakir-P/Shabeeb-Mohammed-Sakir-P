@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shabeeb%20Mohammed%20Sakir&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Kerala%2C%20India%20🌏&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shabeeb%20Mohammed%20Sakir&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Trainer%20%7C%20Data%20Scientist%20%7C%20Kerala%2C%20India%20🌏&descAlignY=55&descSize=18"/>
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate **ML Engineer** and **Data Scientist** from **Kerala, India** with a deep love for Mathematics that evolved into building intelligent systems. I enjoy turning raw data into meaningful insights and building real-world AI solutions.
+I am a passionate **AI Trainer** and **Data Scientist** from **Kerala, India** with a deep love for Mathematics that evolved into building intelligent systems. I enjoy turning raw data into meaningful insights and building real-world AI solutions.
 
 - 🔭 Currently working on **Machine Learning, NLP & Computer Vision** projects
 - 🌱 Actively learning **Deep Learning, MLOps & AWS cloud engineering**
@@ -92,17 +92,14 @@ I am a passionate **ML Engineer** and **Data Scientist** from **Kerala, India** 
 
 ---
 
-### 🚦 Traffic Safety Detection
-> Real-time unsafe driving detection using YOLO and live video feeds.
+### AI-Augmented Soil Fertility Index Generation Using  
+Temporal and Visual Deep Learning Pipelines Optimization 
+> An AI-driven system that combines temporal data and visual deep learning models to accurately predict and optimize soil fertility for smarter agricultural decision-making.
 
-**Stack:** `OpenCV` `YOLO` `PyTorch`
+**Stack:** `OpenCV` `LSTM` `MobileNetV2`
 
 ---
 
-### 🏃 Human Pose Estimation
-> Detects 33 keypoints using MediaPipe for fitness analysis.
-
-**Stack:** `MediaPipe` `TensorFlow` `OpenCV`
 
 ---
 
